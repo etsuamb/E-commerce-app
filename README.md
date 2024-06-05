@@ -9,6 +9,11 @@ providing access to a wide range of products from various categories.
 The app has login and also sign in pages.
 
 
+
+![image](https://github.com/etsuamb/E-commerce-app/assets/150803173/2fd90864-a815-4ce6-8431-c9e4f44e40d9)
+
+
+
 It has checkout page where users will be able to checkout.
 
 
