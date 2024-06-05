@@ -17,3 +17,13 @@ Cart page to add products to cart
 ![image](https://github.com/etsuamb/E-commerce-app/assets/150803173/04416788-f4c6-4649-97ab-6c593529b007)
 
 
+Product owners will be able to add products and users also can see their order history.
+
+
+
+
+
+![image](https://github.com/etsuamb/E-commerce-app/assets/150803173/c08cb1f3-56ab-4b0e-a071-a471bf164dfe)
+
+
+
