@@ -6,6 +6,9 @@ providing access to a wide range of products from various categories.
 ![image](https://github.com/etsuamb/E-commerce-app/assets/150803173/4e7e4e44-b562-4cc8-83f8-c9593be389d4)
 
 
+The app has login and also sign in pages.
+
+
 It has checkout page where users will be able to checkout.
 
 
@@ -24,6 +27,13 @@ Product owners will be able to add products and users also can see their order h
 
 
 ![image](https://github.com/etsuamb/E-commerce-app/assets/150803173/c08cb1f3-56ab-4b0e-a071-a471bf164dfe)
+
+
+It provides filter page in which users filter the product of their choice.
+
+
+![image](https://github.com/etsuamb/E-commerce-app/assets/150803173/20ee1d6b-8e3f-4195-a29e-d304d9b55b7d)
+
 
 
 
