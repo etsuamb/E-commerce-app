@@ -11,3 +11,9 @@ It has checkout page where users will be able to checkout.
 
 ![image](https://github.com/etsuamb/E-commerce-app/assets/150803173/503fbafb-1961-44b2-8140-c9b2db14e304)
 
+
+Cart page to add products to cart
+
+![image](https://github.com/etsuamb/E-commerce-app/assets/150803173/04416788-f4c6-4649-97ab-6c593529b007)
+
+
